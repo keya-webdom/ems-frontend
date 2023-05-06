@@ -1,6 +1,6 @@
 {
   "name": "office-management-system",
-  "proxy": "https://mern-oms-backend.onrender.com/",
+  "proxy": "https://webdom-ems-backend.onrender.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
